@@ -1,0 +1,3 @@
+[submodule "GodotJS"]
+	path = GodotJS
+	url = https://github.com/LazyThree/GodotJS.git
